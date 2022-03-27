@@ -1,0 +1,12 @@
+#goal definition
+int64 x
+int64 y
+int64 z
+float32 vel
+string position
+---
+#result definition
+int32 sequence
+---
+#feedback
+int32 sequence

@@ -1,0 +1,28 @@
+<package>
+  <name>gwonbot_control</name>
+  <version>0.1.0</version>
+  <description>gwonbot_description</description>
+  <license>Apache license 2.0</license>
+  <author email="guan5308@gmail.com">gwon</author>
+  <maintainer email="guna5308@gmail.com">gwon</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rospy</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>actionlib_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <run_depend>gazebo_plugins</run_depend>
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>gazebo_ros_control</run_depend>
+  <run_depend>xacro</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>actionlib_msgs</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <export></export>
+</package>
